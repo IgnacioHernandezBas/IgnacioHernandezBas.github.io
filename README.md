@@ -3,7 +3,7 @@
 En esta práctica se ha llevado la realización de una página web relacionada con una empresa perteneciente al Índice Bursátil IBEX 35,dicha página además deberá ser publicada en Github pages. [https://ignaciohernandezbas.github.io]( https://ignaciohernandezbas.github.io)
 ## 2-Realización de la página ##
 Se ha escogido realizar una web relacionada con el banco Santander,se ha llevado a cabo una creación de una página principal,la cual interconecta dos páginas adicionales,estas se han enfocado en la realización de un formulario Log In, de momento no operativo y la restante muestra información acerca de los patrocinios que dispone el banco en el mundo del deporte.Por último en todas las páginas se encuentra un botón el cual permite observar el estado del banco en la bolsa en tiempo real.
-## 3-Navegación sobre la página ##
+## 3-Navegación sobre la página (Utilizando los botones superiores)##
 A continuación se muestra la navegación por la página creada.
 1. **Página principal**
 
