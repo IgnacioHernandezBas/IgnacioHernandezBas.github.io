@@ -1,4 +1,4 @@
-# Practica2: Creación de una pagina web en HTML puro #
+# Practica2: Creación de una página web en HTML puro #
 ## 1-Introducción ##
 En esta práctica se ha llevado la realización de una página web relacionada con una empresa perteneciente al Índice Bursátil IBEX 35,dicha página además deberá ser publicada en Github pages. [https://ignaciohernandezbas.github.io]( https://ignaciohernandezbas.github.io)
 ## 2-Realización de la página ##
